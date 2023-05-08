@@ -1,6 +1,6 @@
 # imgcat
 
 ## How Install
-'''bash
+```bash
 source <(curl -fsSL https://tnyl.in/imgcat)
-'''
+```
